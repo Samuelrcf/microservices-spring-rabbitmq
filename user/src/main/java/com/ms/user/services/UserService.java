@@ -1,4 +1,4 @@
-package com.ms.user.repositories.services;
+package com.ms.user.services;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;

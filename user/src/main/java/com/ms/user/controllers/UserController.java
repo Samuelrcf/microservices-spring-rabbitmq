@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ms.user.models.UserModel;
 import com.ms.user.records.UserRecordDto;
-import com.ms.user.repositories.services.UserService;
+import com.ms.user.services.UserService;
 
 import jakarta.validation.Valid;
 
